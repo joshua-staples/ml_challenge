@@ -57,7 +57,7 @@ Model: Random Forest Classifier
  
 Area Under ROC Curve: 77.9%
 
-Accuracy: 76.7 % 
+Accuracy: 76.7% 
 
 Precision on 0s: 80.12% 1s: 61.75%
 
