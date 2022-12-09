@@ -26,7 +26,9 @@ Model: GBT
 
 Accuracy: 77.2%
 
-Precision: 78.5%
+Precision: 0's: 78.56% 1's: 71.08%
+
+F1-Score: 0's: 85.17%  1's: 52.52%
 
 Excluded the >100000 Income column.
 
@@ -54,5 +56,3 @@ F1-Score:
  Accuracy: 77.9%
  
  Excluded the >100000 Income column.
- 
- ![](./img/rf_roc_plot_mg.png)
