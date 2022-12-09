@@ -36,3 +36,15 @@ Excluded the >100000 Income column.
 ROC Curve:
 
 ![](./img/ROC_curve_ks.png)
+
+__Bryton Petersen__
+
+Model: SVM Classifier
+
+Accuracy:
+
+Precision:
+
+F1-Score:
+
+![](I dont actually have a picture yet)
