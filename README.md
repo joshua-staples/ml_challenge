@@ -60,9 +60,11 @@ Area Under ROC Curve: 77.9%
 Accuracy: 76.7 % 
 
 Precision on 0s: 80.12% 1s: 61.75%
+
 F1 Score     0s: 84.85% 1s: 49.65%
 
- 
+Recall:      0s: 90.17% 1s: 41.51%
+
 Excluded the >100000 Income column.
 
  
