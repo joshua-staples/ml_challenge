@@ -24,6 +24,8 @@ __Kody Smith__
 
 Model: GBT 
 
+Area Under ROC Curve: 79.79%
+
 Accuracy: 77.2%
 
 Precision: 0's: 78.56% 1's: 71.08%
@@ -69,7 +71,7 @@ Excluded the >100000 Income column.
 
 ### Final Model
 
-Random Forest Classifier with 77.9 accuracy
+Random Forest Classifier with 77.9 Area Under ROC Curve
 
 Model's parameters: 
 - Number of trees set to 15
