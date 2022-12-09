@@ -24,12 +24,9 @@ __Kody Smith__
 
 Model: GBT 
 
-Accuracy: 77%
+Accuracy: 77.2%
 
-Precision: 
-
-F1-Score:
-
+Precision: 78.5%
 
 Excluded the >100000 Income column.
 
