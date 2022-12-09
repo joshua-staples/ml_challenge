@@ -51,18 +51,17 @@ F1-Score:
  
  __Matthew Goodsell__
  
- Model: Random Forest Classifier
+Model: Random Forest Classifier
  
- Accuracy: 77.9%
+Area Under ROC Curve: 77.9%
+
+Accuracy: 76.7 % 
+
+Precision on 0s: 80.12% 1s: 61.75%
+F1 Score     0s: 84.85% 1s: 49.65%
+
  
- Excluded the >100000 Income column.
- 
-Area Under ROC Curve: 77.96%
-Accuracy: 76.70%.
-Precision on 0s: 80.12%.
-Precision on 1s: 61.75%.
-F1Score on 0s: 84.85%.
-F1Score on 1s: 49.65%.
+Excluded the >100000 Income column.
 
  
 ![](./img/rf_roc_plot_mg.png)
