@@ -28,6 +28,8 @@ Area Under ROC Curve: 79.79%
 
 Accuracy: 77.2%
 
+Recall: 0's: 93.00% 1's: 40.40%
+
 Precision: 0's: 78.56% 1's: 71.08%
 
 F1-Score: 0's: 85.17%  1's: 52.52%
