@@ -57,6 +57,14 @@ F1-Score:
  
  Excluded the >100000 Income column.
  
+Area Under ROC Curve: 77.96%
+Accuracy: 76.70%.
+Precision on 0s: 80.12%.
+Precision on 1s: 61.75%.
+F1Score on 0s: 84.85%.
+F1Score on 1s: 49.65%.
+
+ 
 ![](./img/rf_roc_plot_mg.png)
 
 
