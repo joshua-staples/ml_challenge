@@ -58,3 +58,11 @@ F1-Score:
  Excluded the >100000 Income column.
  
 ![](./img/rf_roc_plot_mg.png)
+
+
+Model's parameters: 
+- Number of trees set to 15
+- Max Depth of the trees set to 15
+
+Top ten most important Features
+![](./img/feature_importanct.png)
