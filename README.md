@@ -54,3 +54,5 @@ F1-Score:
  Accuracy: 77.9%
  
  Excluded the >100000 Income column.
+ 
+ ![](./img/rf_roc_plot_mg.png)
