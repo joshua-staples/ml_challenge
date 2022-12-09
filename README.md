@@ -37,6 +37,7 @@ ROC Curve:
 
 ![](./img/ROC_curve_ks.png)
 
+
 __Bryton Petersen__
 
 Model: SVM Classifier
@@ -48,3 +49,20 @@ Precision:
 F1-Score:
 
 ![](I dont actually have a picture yet)
+
+
+__Grant Mickle__
+
+Model: GBT
+
+Accuracy:
+
+Precision:
+
+F1-Score:
+
+Area Under ROC: 0.9998862707028456
+
+Feature Importances Plot
+
+![Feature Importance PLot - Grant Mickle](./img/feature_importance_mickle.png)
