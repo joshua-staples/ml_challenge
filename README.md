@@ -49,3 +49,11 @@ F1-Score:
 
 ![](I dont actually have a picture yet)
  -->
+ 
+ __Matthew Goodsell__
+ 
+ Model: Random Forest Classifier
+ 
+ Accuracy: 75.8%
+ 
+ Excluded the >100000 Income column.
