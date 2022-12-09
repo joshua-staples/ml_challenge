@@ -54,6 +54,6 @@ F1-Score:
  
  Model: Random Forest Classifier
  
- Accuracy: 75.8%
+ Accuracy: 77.9%
  
  Excluded the >100000 Income column.
