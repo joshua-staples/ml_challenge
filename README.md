@@ -37,7 +37,7 @@ ROC Curve:
 
 ![](./img/ROC_curve_ks.png)
 
-__Bryton Petersen__
+<!-- __Bryton Petersen__
 
 Model: SVM Classifier
 
@@ -48,3 +48,4 @@ Precision:
 F1-Score:
 
 ![](I dont actually have a picture yet)
+ -->
