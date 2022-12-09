@@ -35,4 +35,4 @@ Excluded the >100000 Income column.
 
 ROC Curve:
 
-![](./img/download.png)
+![](./img/ROC_curve_ks.png)
