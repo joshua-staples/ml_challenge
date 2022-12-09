@@ -69,4 +69,5 @@ Model's parameters:
 - Max Depth of the trees set to 15
 
 Top ten most important Features
+
 ![](./img/feature_importance.png)
