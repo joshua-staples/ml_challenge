@@ -19,3 +19,20 @@ Excluded the >100000 Income column.
 ROC Curve:
 
 ![](./img/download.png)
+
+__Kody Smith__
+
+Model: GBT 
+
+Accuracy: 77%
+
+Precision: 
+
+F1-Score:
+
+
+Excluded the >100000 Income column.
+
+ROC Curve:
+
+![](./img/download.png)
